@@ -1,0 +1,9 @@
+Aprender sobre las etiquetas DIV, A, IMG
+Utilizar cuestiones basicas de CSS (inline)
+
+La practica consiste en generar 4 tarjetas que se posicionen en un mismo renglon
+* Cada tarjeta debe contener
+  - imagen
+  - Encabezado
+  - Parrafo
+  - Link
