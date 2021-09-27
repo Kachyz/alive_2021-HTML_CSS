@@ -1,0 +1,22 @@
+p {
+  color: blue;
+  font-size: 15px;
+}
+
+div {
+  text-align: center;
+  background-color: yellow;
+}
+
+#textoAfuera {
+  font-size: 30px;
+}
+
+.imgRedonda {
+  border-radius: 50%;
+}
+
+.imgCuadrada {
+  height: 150px;
+  width: 150px;
+}
