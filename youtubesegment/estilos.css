@@ -1,0 +1,54 @@
+img {
+  width: 270px;
+  height: 150px;
+}
+
+h4 {
+  color: white;
+  margin: 0 0 5px 0;
+}
+
+p {
+  margin: 0;
+}
+
+.fila {
+  background-color: #191919;
+}
+
+.tarjeta-video {
+  color: grey;
+  margin: 8px;
+  display: inline-block;
+  position: relative;
+}
+
+.informacion-video {
+  margin-top: 3px;
+}
+
+.img-usuario {
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 3px;
+}
+
+.textos {
+  font-size: 14px;
+  font-family: Arial;
+  display: inline-block;
+}
+
+.duracion {
+  position: absolute;
+  top: 125px;
+  right: 8px;
+  background-color: black;
+  color: white;
+  font-size: 14px;
+  padding: 2px 3px;
+  border-radius: 3px;
+}
