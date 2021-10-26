@@ -8,6 +8,10 @@ div {
   background-color: yellow;
 }
 
+.miClase{
+  background-color: red;
+}
+
 #textoAfuera {
   font-size: 30px;
 }
@@ -17,6 +21,6 @@ div {
 }
 
 .imgCuadrada {
-  height: 150px;
-  width: 150px;
+  height: 300px;
+  width: 200px;
 }
