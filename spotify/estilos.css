@@ -18,25 +18,29 @@ h1 {
     font-size: 50px;
 }
 
+.info-cancion {
+    display: inline-block;
+}
+
 #botones { 
     height: 60px;
     border: solid black 2px;
 }
 
 #t-numero { 
-    width: 20px;
+    width: 50px;
 }
 #t-titulo {
-    width:150px;
+    width: 300px;
 }
 #t-album {
-    width:150px;
+    width: 260px;
 }
 #t-fecha {
-    width:100px;
+    width: 200px;
 }
 #t-reloj {
-    width:30px;
+    width: 70px;
 }
 table{
     background-color: black;
@@ -44,10 +48,20 @@ table{
 }
 
 img {
-    height: 25px;
-    width: 25px;
+    height: 45px;
+    width: 45px;
 }
 
+.sin-margen {
+    margin: 0;
+}
 
+.titulo-cancion {
+    font-size: 17px;        
+}
 
+.nombre-artista {
+    margin-top: 5px;
+    font-size: 13px;
+}
 
